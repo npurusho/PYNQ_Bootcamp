@@ -1,4 +1,1 @@
-<p align="center">
-  <img src=./flier.png/>
-</p>
-
+# Saratoga High School PYNQ Project
